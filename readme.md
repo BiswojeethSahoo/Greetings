@@ -25,9 +25,10 @@ python Greetings.py
 ## Output
 
 ```
-The current time is: 14:32:10
+Ex:-
+  The current time is: 14:32:10
 
-Good afternoon!
+  Good afternoon!
 ```
 
 ## Notes
